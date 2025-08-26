@@ -1,30 +1,67 @@
-# dti-website
-With a focus on quality, reliability, and innovation, we help operators, enterprises, and businesses build strong and future-ready communication networks. Our team of experienced professionals ensures that every project is executed with precision, safety, and efficiency.
-# Differential Tele Infra Pvt. Ltd. — Official Website
+# <img src="assets/logo.png" alt="Company Logo" width="80"/> Differential Teleinfra Droid
 
-Welcome to the official website repository of **Differential Tele Infra Pvt. Ltd.**
+Welcome to **Differential Tele-infra Droid** 🚀  
 
-## 🌐 About Us
-**Differential Tele Infra Pvt. Ltd.** is a trusted provider of **telecommunication infrastructure solutions**.  
-We specialize in:
-- Tower installation & maintenance  
-- Optical fiber deployment  
-- Network integration services  
-- End-to-end telecom solutions  
+We provide **Telecom solutions, Software Tools, and Electronics projects** for automation, development, and innovative technology.
 
-Our mission is simple:  
-**To deliver reliable, innovative, and future-ready telecom infrastructure that connects people and empowers businesses.**
+---
 
-## 🚀 Live Website
-👉(https://differentialteleinfra-droid.github.io/dti-website/) 
+## 🏢 About Us
+Differential Teleinfra Droid focuses on:
+- 📡 **Telecom solutions** (automation scripts, network tools, configurations)
+- 💻 **Software utilities** (CLI & GUI tools for engineers and developers)
+- 🔌 **Electronics projects** (schematics, PCB designs, firmware, embedded systems)
+
+Our mission: **Making technology simple, reliable, and powerful.**
+
+---
+
+## 🚀 Features
+- Automation tools for telecom networks
+- Utility software tools for developers
+- Electronics hardware + firmware projects
+- Documentation, examples, and test cases included
+
+
+## ⚙️ Installation
+1. Clone the repository:  
+```bash
+git clone https://github.com/differentialteleinfra-droid/your-repo-name.git
+
+cd your-repo-name
+./scripts/setup.sh
+🖥️ Usage
+
+📡 Telecom scripts: src/telecom/
+
+💻 Software tools: src/tools/
+
+🔌 Electronics firmware: src/electronics/
+
+⚙️ Configurations: config/
+
+📂 Examples / demo projects: examples/
+
+🧪 Testing
+
+cd tests
+python3 -m unittest
 
 Contact Us
-Email: differentialteleinfra@gmail.com
-        info16.dtipl@gmail.com
-Phone: +91-9419586500
-           9466978001
 
-           
-  Maintained by Differential Tele Infra Pvt. Ltd. All rights reserved         
+Email: differentialteleinfra@gmail.com
+
+Phone: +91-9419586500, 9466978001
+🌐 Website: www.differentialteleinfra.com
+
+📍 Location: India
+© Copyright
+
+© 2025 Differential Teleinfra Droid. All Rights Reserved.
+
+-
+
+
+
 
 ## 📂 Repository Structure
